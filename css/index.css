@@ -1,0 +1,14 @@
+.u{border: 1px solid white;}
+.A1{height:20%;width: 100%; }
+.A11{list-style: none;float:right;width:405px;height:20px ;}
+.A1 li{float: left;color: #000000;}
+.A1 a{color: black;margin-left: 15px;}
+.A2 {margin-top:250px ;height:auto ;width: auto;}
+.A3{height: 30px;width:380px;}
+.i{height: 30px;width: 300px;background-image: url(../img/baidu01.png);background-position: right;background-repeat: no-repeat;}
+.o{background-color:cornflowerblue;height:30px;color: white;}
+.A4{margin-top: 250px;width: 250px;margin-bottom: 80px;}
+.A5{width:400px;}
+.A5 a{color: gray; }
+.A6{width: 800px;}	
+.A6 a{color: gray;}
